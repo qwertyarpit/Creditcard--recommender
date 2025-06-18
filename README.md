@@ -3,6 +3,8 @@
 A web-based,credit card recommendation system that helps users to find the best-fit Indian credit cards based on their preferences.
 
 ---
+Demo Video
+[https://www.loom.com/share/254cd954823d4a568efef348a26e92f4](https://www.loom.com/share/254cd954823d4a568efef348a26e92f4)
 
 ##  Setup Instructions
 
