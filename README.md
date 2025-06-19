@@ -4,7 +4,7 @@ A web-based,credit card recommendation system that helps users to find the best-
 
 ---
 Demo Video
-[https://www.loom.com/share/254cd954823d4a568efef348a26e92f4](https://www.loom.com/share/254cd954823d4a568efef348a26e92f4)
+[https://www.loom.com/share/0374b17c2637437db205045f3c399e8d](https://www.loom.com/share/0374b17c2637437db205045f3c399e8d)
 
 ##  Setup Instructions
 
